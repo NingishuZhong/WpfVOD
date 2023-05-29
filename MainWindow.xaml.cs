@@ -23,7 +23,8 @@ namespace WpfVOD
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("Test");
+            MessageBox.Show("ATest");
+            MessageBox.Show("BTest");
         }
     }
 }
